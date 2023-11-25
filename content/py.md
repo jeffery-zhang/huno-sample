@@ -1,3 +1,10 @@
++++
+title=Python Learning Stage 1
+description=First lesson for python learners
+author=Jingo
+date=2023-11-25 21:20:00
++++
+
 # Hello Word
 
 在命令行中输入 python 来运行解释器, 随后输入 print('Hello World!')
