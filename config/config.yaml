@@ -1,2 +1,1 @@
-baseUrl: "http://localhost:3222"
-globalParams: { title: "Sample Title" }
+globalParams: { baseUrl: "http://localhost:8080/", title: "Sample Title" }
