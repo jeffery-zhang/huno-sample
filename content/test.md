@@ -2,7 +2,7 @@
 title=TEST
 description=Test page
 author=Jingo
-category=hls
+category=wtf
 +++
 
 ## Hello HUNO TEST
