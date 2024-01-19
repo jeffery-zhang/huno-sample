@@ -1,9 +1,9 @@
-+++
-title=TEST
-description=Test page
-author=Jingo
-category=wtf
-+++
+---
+title: TEST
+description: Test page
+author: Jingo
+category: wtf
+---
 
 ## Hello HUNO TEST
 
