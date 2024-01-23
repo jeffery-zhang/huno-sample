@@ -1,3 +1,15 @@
-category: "categories"
-series: "series"
-tag: "tags"
+contentDir: 'content'
+publicDir: 'public'
+templateDir: 'template'
+templateName: 'default'
+partialsDir: 'partials'
+pluginsDir: 'plugins'
+outputDir: 'dist'
+port: 8080
+previewPort: 9000
+contentMap: false
+
+baseUrl: '/'
+title: 'Hello Huno'
+description: 'Welcome to Huno'
+author: 'Huno'
