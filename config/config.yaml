@@ -1,15 +1,19 @@
-contentDir: 'content'
-publicDir: 'public'
-templateDir: 'template'
-templateName: 'default'
-partialsDir: 'partials'
-pluginsDir: 'plugins'
-outputDir: 'dist'
+contentDir: "content"
+publicDir: "public"
+templateDir: "template"
+templateName: "default"
+partialsDir: "partials"
+pluginsDir: "plugins"
+outputDir: "dist"
 port: 8080
 previewPort: 9000
 contentMap: false
+plugins:
+  - "plugins/plugin1/index.js"
+  - "plugins/plugin2/index.js"
 
-baseUrl: '/'
-title: 'Hello Huno'
-description: 'Welcome to Huno'
-author: 'Huno'
+baseVariables:
+  baseUrl: "/"
+  title: "Hello Huno"
+  description: "Welcome to Huno"
+  author: "Huno"
